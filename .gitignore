@@ -1,0 +1,13 @@
+# Generated data: contains real company and contact details, never commit
+data/
+# Secrets
+.env
+*.key
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Editors and OS
+.vscode/
+.DS_Store
